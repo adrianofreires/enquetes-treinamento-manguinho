@@ -4,12 +4,13 @@
         "name": "Flutter: Run all Tests",
         "type": "dart",
         "request": "launch",
-        "program": "./test/"
+        "program": "test/"
     }, 
     {
         "name": "Flutter",
         "request": "launch",
-        "type": "dart"
+        "type": "dart",
+        "program": "lib/main/main.dart"
     }
     ]
 }
