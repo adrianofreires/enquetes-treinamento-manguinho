@@ -1,0 +1,5 @@
+{
+    "editor.minimap.maxColumn": 350,
+    "markdown.preview.breaks": true,
+    "dart.lineLength": 210
+}
